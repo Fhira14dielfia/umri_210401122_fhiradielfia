@@ -1,4 +1,5 @@
-
+#import libary yang diperlukan 
+from flask import Flask, request, jsonify
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
