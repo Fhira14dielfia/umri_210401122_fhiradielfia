@@ -1,4 +1,4 @@
-# Import library yang diperlukan
+# Import library
 import pandas as pd
 import numpy as np
 
